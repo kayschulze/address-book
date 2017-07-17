@@ -27,5 +27,6 @@ debugger;
 
   $("input#new-first-name").val("");
   $("input#new-last-name").val("");
+  //makes input in form disappear
   });
 });
